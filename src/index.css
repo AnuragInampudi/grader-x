@@ -1,0 +1,6 @@
+/*
+  Tailwind CSS entrypoint: imports base, components, utilities
+*/
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
